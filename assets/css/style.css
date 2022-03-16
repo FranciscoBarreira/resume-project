@@ -8,6 +8,11 @@
     background-color: #e67e22;
 }
 
+.bg-color-three-reasons {
+    background-color: #fff;
+
+}
+
 .ui-menu-color-resume {
     background-color: #9b59b6;
 }
@@ -18,6 +23,10 @@
 
 .ui-menu-color-download {
     background-color: #525252;
+}
+
+.bg-color-personal-info {
+    background-color: #f4f4f4;
 }
 
 header {
@@ -35,6 +44,23 @@ h1, h2, h3, h4 {
 
 .uppercase {
     text-transform: uppercase;
+}
+
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
 }
 
 .general-sub {
@@ -177,4 +203,13 @@ footer{
 
 #footer-details{
     padding: 20px;
+}
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22 
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
